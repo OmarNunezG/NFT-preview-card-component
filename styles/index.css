@@ -96,6 +96,7 @@ body {
   opacity: 0;
   transition: 0.3s ease;
   background-color: hsl(178, 100%, 50%);
+  border-radius: 0.5em;
 }
 
 .overlay:hover {
